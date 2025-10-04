@@ -1,0 +1,16 @@
+{
+  "chainId": 101,
+  "address": "BMAT7DrBHBEqxm8vxUwcYaKjKBdvGEM2uLH3XuztFawy",
+  "symbol": "FRA",
+  "name": "Fractus",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/marcomars13/fractus-token/main/assets/mainnet/BMAT7DrBHBEqxm8vxUwcYaKjKBdvGEM2uLH3XuztFawy/logo.png",
+  "extensions": {
+    "website": "https://github.com/marcomars13/fractus-token",
+    "description": "Fractus — The Fractal Intelligence Engine bridging math, AI, and blockchain.",
+    "twitter": "https://x.com/marcomars13",
+    "github": "https://github.com/marcomars13/fractus-ia"
+  },
+  "tags": ["AI", "Fractal", "Innovation", "Math", "Solana"]
+}
+
