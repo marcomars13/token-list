@@ -1,0 +1,14 @@
+{
+  "chainId": 101,
+  "address": "BMAT7DrBHBEqxm8vxUwcYaKjKBdvGEM2uLH3XuztFawy",
+  "symbol": "FTS",
+  "name": "Fractys",
+  "decimals": 9,
+  "logoURI": "https://marcomars13.github.io/logo.png",
+  "extensions": {
+    "website": "https://marcomars13.github.io/",
+    "twitter": "https://x.com/MarcFractys",
+    "description": "Fractys est le token fractal de l’écosystème Mirovia : offre fixe, mint verrouillé, Raydium LP."
+  },
+  "tags": ["utility", "community", "research"]
+}
