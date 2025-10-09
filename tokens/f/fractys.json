@@ -4,11 +4,13 @@
   "symbol": "FTS",
   "name": "Fractys",
   "decimals": 9,
-  "logoURI": "https://marcomars13.github.io/logo.png",
+  "image": "https://marcomars13.github.io/logo.png",
+  "tags": ["fractal", "ai", "blockchain", "research"],
   "extensions": {
-    "website": "https://marcomars13.github.io/",
+    "website": "https://fractys.io",
     "twitter": "https://x.com/MarcFractys",
-    "description": "Fractys est le token fractal de l’écosystème Mirovia : offre fixe, mint verrouillé, Raydium LP."
-  },
-  "tags": ["utility", "community", "research"]
+    "github": "https://github.com/marcomars13",
+    "whitepaper": "https://marcomars13.github.io/Fractys_Whitepaper_v2.0.png",
+    "description": "Fractys (FTS) is the fractal token of the Mirovia ecosystem — fixed supply, locked mint, and Raydium LP verified."
+  }
 }
